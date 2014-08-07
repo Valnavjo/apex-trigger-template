@@ -13,4 +13,6 @@ I’ve developed this trigger template because among all the templates that have
 	<li>The trigger has only one line of code :)</li>
 </ul>
 
+See the full reference <a href="http://www.valnavjo.com/blog/?p=6" target="_blank">here</a>.
+
 Be Apex my friend!
